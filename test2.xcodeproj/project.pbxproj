@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E2B05521E8B763500BB8160 /* TrueLoveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2B05511E8B763500BB8160 /* TrueLoveViewController.swift */; };
 		8ED181CE1E8B6B4300E22C41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED181CD1E8B6B4300E22C41 /* AppDelegate.swift */; };
 		8ED181D01E8B6B4300E22C41 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED181CF1E8B6B4300E22C41 /* ViewController.swift */; };
 		8ED181D31E8B6B4400E22C41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8ED181D11E8B6B4400E22C41 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E2B05511E8B763500BB8160 /* TrueLoveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrueLoveViewController.swift; sourceTree = "<group>"; };
 		8ED181CA1E8B6B4300E22C41 /* test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ED181CD1E8B6B4300E22C41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8ED181CF1E8B6B4300E22C41 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		8ED181C11E8B6B4300E22C41 = {
 			isa = PBXGroup;
 			children = (
+				8E2B05511E8B763500BB8160 /* TrueLoveViewController.swift */,
 				8ED181CC1E8B6B4300E22C41 /* test2 */,
 				8ED181E41E8B6B4400E22C41 /* test2Tests */,
 				8ED181EF1E8B6B4400E22C41 /* test2UITests */,
@@ -268,6 +271,7 @@
 				8ED181FF1E8B6C2E00E22C41 /* yayatrueLoveViewController.swift in Sources */,
 				8ED181D01E8B6B4300E22C41 /* ViewController.swift in Sources */,
 				8ED181D61E8B6B4400E22C41 /* test2.xcdatamodeld in Sources */,
+				8E2B05521E8B763500BB8160 /* TrueLoveViewController.swift in Sources */,
 				8ED181CE1E8B6B4300E22C41 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -511,6 +515,7 @@
 				8ED181F71E8B6B4400E22C41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8ED181F81E8B6B4400E22C41 /* Build configuration list for PBXNativeTarget "test2Tests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +524,7 @@
 				8ED181FA1E8B6B4400E22C41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8ED181FB1E8B6B4400E22C41 /* Build configuration list for PBXNativeTarget "test2UITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +533,7 @@
 				8ED181FD1E8B6B4400E22C41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
