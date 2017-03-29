@@ -15,6 +15,7 @@
 		8ED181DB1E8B6B4400E22C41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8ED181D91E8B6B4400E22C41 /* LaunchScreen.storyboard */; };
 		8ED181E61E8B6B4400E22C41 /* test2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED181E51E8B6B4400E22C41 /* test2Tests.swift */; };
 		8ED181F11E8B6B4400E22C41 /* test2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED181F01E8B6B4400E22C41 /* test2UITests.swift */; };
+		8ED181FF1E8B6C2E00E22C41 /* yayatrueLoveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED181FE1E8B6C2E00E22C41 /* yayatrueLoveViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8ED181EC1E8B6B4400E22C41 /* test2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ED181F01E8B6B4400E22C41 /* test2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test2UITests.swift; sourceTree = "<group>"; };
 		8ED181F21E8B6B4400E22C41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8ED181FE1E8B6C2E00E22C41 /* yayatrueLoveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = yayatrueLoveViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8ED181CD1E8B6B4300E22C41 /* AppDelegate.swift */,
 				8ED181CF1E8B6B4300E22C41 /* ViewController.swift */,
 				8ED181D11E8B6B4400E22C41 /* Main.storyboard */,
+				8ED181FE1E8B6C2E00E22C41 /* yayatrueLoveViewController.swift */,
 				8ED181D71E8B6B4400E22C41 /* Assets.xcassets */,
 				8ED181D91E8B6B4400E22C41 /* LaunchScreen.storyboard */,
 				8ED181DC1E8B6B4400E22C41 /* Info.plist */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8ED181FF1E8B6C2E00E22C41 /* yayatrueLoveViewController.swift in Sources */,
 				8ED181D01E8B6B4300E22C41 /* ViewController.swift in Sources */,
 				8ED181D61E8B6B4400E22C41 /* test2.xcdatamodeld in Sources */,
 				8ED181CE1E8B6B4300E22C41 /* AppDelegate.swift in Sources */,
